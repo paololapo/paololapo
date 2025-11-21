@@ -8,8 +8,10 @@
 --->
 
 -  📌 Based in Padua, Italy.
+-  🧑🏻‍💻 Physics PhD Student, focusing on optimization techniques for resilient complex systems out of equilibrium.
+-  🎈 Mostly interested in: complex systems, network science, machine and deep learning, statistical physics, numerical simulations, information theory, and computational neuroscience.
+---
 -  🎓 MSc Physics of Data graduate. Final thesis: *"Variational principles for hierarchical and modular architectures in complex networks"*, investigation of the emergence of hierarchy using information thermodynamics. Supervisor: Prof. Manlio De Domenico.
 -  🎓 BSc Physics graduate. Final thesis: *"Dynamical connectivity and nonlinearity in a whole-brain computational model"*, analysis of fMRI time series with modern computational neuroscience models and techniques. Supervisor: Prof. Michele Allegra.
--  🎈 Mostly interested in: complex systems, network science, machine and deep learning, statistical physics, numerical simulations, information theory, computational neuroscience.
 
   <br />
